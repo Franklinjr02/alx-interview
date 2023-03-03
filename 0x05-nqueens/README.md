@@ -1,0 +1,1 @@
+repository on algorithm Nqueens
